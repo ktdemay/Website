@@ -1,2 +1,2 @@
 # Website
-Personal website
+Simple website to showcase myself
